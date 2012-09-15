@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Search/Lucene/Storage/File
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Filesystem.php
+file
+
+
+
+
+2010-07-31T20:59:49.000000Z
+1eb67ee2cc8274aef61f34907228ac94
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Memory.php
+file
+
+
+
+
+2010-07-31T20:59:49.000000Z
+5e4e5edc47c3c004bc77c9983d98d5a2
+2010-07-31T19:05:20.200846Z
+3
+diego
+

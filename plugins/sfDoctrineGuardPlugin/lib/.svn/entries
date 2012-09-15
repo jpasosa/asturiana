@@ -1,0 +1,73 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfDoctrineGuardPlugin/lib
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+filter
+dir
+
+validator
+dir
+
+sfGuardBasicSecurityFilter.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+920f2b02fbd719df8a3f4076815b5251
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+routing
+dir
+
+sfGuardRememberMeFilter.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+50bdb27b0c03a584052be47abc7d5d15
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+user
+dir
+

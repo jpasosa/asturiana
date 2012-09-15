@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/validator
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+sfValidatorDoctrineUnique.class.php
+file
+
+
+
+
+2010-07-31T20:59:53.000000Z
+5aec6bc5043b2d5fc68d7e45edd2473d
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+sfValidatorDoctrineChoice.class.php
+file
+
+
+
+
+2010-07-31T20:59:53.000000Z
+3485407901f9e778157581b3683cc438
+2010-07-31T19:05:20.200846Z
+3
+diego
+

@@ -1,0 +1,70 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+behavior
+dir
+
+test
+dir
+
+log
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+database
+dir
+
+addon
+dir
+
+validator
+dir
+
+debug
+dir
+
+generator
+dir
+
+routing
+dir
+
+mailer
+dir
+
+vendor
+dir
+

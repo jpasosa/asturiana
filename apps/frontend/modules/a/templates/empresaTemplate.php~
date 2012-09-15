@@ -1,0 +1,20 @@
+<?php use_helper('a') ?>
+<?php $page = aTools::getCurrentPage() ?>
+<?=$page?>
+<?php slot('body_class') ?>empresa<?php end_slot() ?>
+<?php slot('a-breadcrumb','') ?>
+
+<?php slot('a-subnav') ?>
+  <?php include_component('aNavigation', 'tabs', array('root' => '/empresa', 'name' => 'sub-main', 'draggable' => true, 'dragIcon' => false)) # Top Level Navigation ?>
+<?php end_slot() ?> 
+
+
+<div style="background:none repeat scroll 0 0 #FFFFFF;
+height:508px;
+margin:10px;
+overflow:hidden;
+padding:10px;
+width:410px;">
+  <?php a_slot("col-left-title", 'aRichText', array('tool' => 'Main')) ?>
+  <?php a_slot("col-left-content", 'aText', array('multiline' => true)) ?>
+</div>

@@ -1,0 +1,70 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+logger
+dir
+
+adapter
+dir
+
+validator
+dir
+
+PropelException.php
+file
+
+
+
+
+2010-07-31T20:59:55.000000Z
+6d7f10968737dfa6b141116f5f1ca42c
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Propel.php
+file
+
+
+
+
+2010-07-31T20:59:55.000000Z
+cebca01b43c0f44720d1ab2a15bf2980
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+om
+dir
+
+map
+dir
+
+util
+dir
+

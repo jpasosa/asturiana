@@ -1,0 +1,79 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hook
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Parser.php
+file
+
+
+
+
+2010-07-31T20:59:53.000000Z
+0f12d1914cf02fe6f880ed0391aa64c8
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Integer.php
+file
+
+
+
+
+2010-07-31T20:59:53.000000Z
+c0bbc7e0dbdf02fe2192667013014216
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+WordLike.php
+file
+
+
+
+
+2010-07-31T20:59:53.000000Z
+92520afef828abc379357b5181fb66a5
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Parser
+dir
+
+Equal.php
+file
+
+
+
+
+2010-07-31T20:59:53.000000Z
+6343d717685c5b6fc96e8adf97627aef
+2010-07-31T19:05:20.200846Z
+3
+diego
+

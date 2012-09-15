@@ -1,0 +1,58 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Test/PHPUnit
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Constraint
+dir
+
+Db
+dir
+
+ControllerTestCase.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+e07bc722196dbe9b2c7b6c9855e485d2
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+DatabaseTestCase.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+188b365f8d7486a3d90f87ea73e342a9
+2010-07-31T19:05:20.200846Z
+3
+diego
+

@@ -1,0 +1,49 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/InfoCard/Cipher/Symmetric
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Adapter
+dir
+
+Interface.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+4a139072c3a82e6c4d9c94d881a3b384
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Aes128cbc
+dir
+
+Aes256cbc
+dir
+

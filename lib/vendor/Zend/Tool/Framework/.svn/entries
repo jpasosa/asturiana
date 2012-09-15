@@ -1,0 +1,76 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Tool/Framework
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Metadata
+dir
+
+System
+dir
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+c894c11a8a62c3425bd72132ae922343
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Loader
+dir
+
+Manifest
+dir
+
+Registry
+dir
+
+Provider
+dir
+
+Action
+dir
+
+Client
+dir
+
+Registry.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+cdf53c69b62abaf6e341686b553e4eba
+2010-07-31T19:05:20.200846Z
+3
+diego
+

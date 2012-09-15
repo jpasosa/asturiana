@@ -1,0 +1,55 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Queue/Stomp/Client
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Connection
+dir
+
+Connection.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+ae5fc5ea2c12a8204358f507e9a80b04
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+ConnectionInterface.php
+file
+
+
+
+
+2010-07-31T20:59:47.000000Z
+7373c7d55d8ead85d61aaf7f3f94cc0c
+2010-07-31T19:05:20.200846Z
+3
+diego
+

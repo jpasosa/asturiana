@@ -1,0 +1,70 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/apostropheBlogPlugin/lib
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+actions
+dir
+
+model
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+aBlogEvents.class.php
+file
+
+
+
+
+2010-07-31T20:59:40.000000Z
+678c8780ac1cdbbf7f190f9dc95aadfe
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+aBlogToolkit.class.php
+file
+
+
+
+
+2010-07-31T20:59:40.000000Z
+51d1cd332bbf13d95070f48fd7d18fde
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+filter
+dir
+

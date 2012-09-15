@@ -1,0 +1,16 @@
+<?php use_helper('a') ?>
+<?php $page = aTools::getCurrentPage() ?>
+<?php slot('body_class') ?>col-left<?php end_slot() ?>
+<?php slot('a-breadcrumb','') ?>
+
+<div class="col-left-tr-dibujos-wrapper">
+  <div class="cuadro">
+    <div class="dibujos"> </div>
+    <div class="titulo">
+      <?php a_slot("cl-tr-dibujos-titulo", 'aRichText', array('tool' => 'Main')) ?>
+    </div>
+    <div id="scroll-contenido" class="contenido">
+      <?php a_slot("cl-tr-dibujos-contenido", 'aRichText', array('tool' => 'Main')) ?>
+    </div>
+  </div>
+</div>

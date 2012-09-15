@@ -1,0 +1,70 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Paginator
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Adapter
+dir
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:44.000000Z
+c572d72d0ab094304775a38b17c93d04
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+SerializableLimitIterator.php
+file
+
+
+
+
+2010-07-31T20:59:44.000000Z
+34db5180c360e61b65895182b5e2b2c6
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+ScrollingStyle
+dir
+
+AdapterAggregate.php
+file
+
+
+
+
+2010-07-31T20:59:44.000000Z
+89f49f278f21933d056a4083349671e1
+2010-07-31T19:05:20.200846Z
+3
+diego
+

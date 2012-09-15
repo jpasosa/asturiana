@@ -1,0 +1,73 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfJqueryReloadedPlugin
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+LICENSE
+file
+
+
+
+
+2010-07-31T20:59:40.000000Z
+37fe11362d52738483c7dd81991ae972
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+config
+dir
+
+lib
+dir
+
+package.xml
+file
+
+
+
+
+2010-07-31T20:59:40.000000Z
+b10f0d7848a8de0a8d25190beae2382f
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+web
+dir
+
+README
+file
+
+
+
+
+2010-07-31T20:59:40.000000Z
+4d308f8a3e67a7b1ba6ca945741b68ca
+2010-07-31T19:50:31.953831Z
+4
+diego
+

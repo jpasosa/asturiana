@@ -1,0 +1,122 @@
+
+
+empresa_index:
+  url:  /
+  param: { module: empresa, action: index }
+  class: aRoute
+empresa_action:
+  url: /:action
+  param: { module: empresa }
+  class: aRoute
+
+cafe_index:
+  url:  /
+  param: { module: cafe, action: index }
+  class: aRoute
+cafe_action:
+  url: /:action
+  param: { module: cafe }
+  class: aRoute
+
+productos_index:
+  url:  /
+  param: { module: productos, action: index }
+  class: aRoute
+productos_action:
+  url: /:action
+  param: { module: productos }
+  class: aRoute
+
+servicios_index:
+  url:  /
+  param: { module: servicios, action: index }
+  class: aRoute
+servicios_action:
+  url: /:action
+  param: { module: servicios }
+  class: aRoute
+
+
+clientes_index:
+  url:  /
+  param: { module: clientes, action: index }
+  class: aRoute
+clientes_action:
+  url: /:action
+  param: { module: clientes }
+  class: aRoute
+
+
+
+
+# con esta regla, entra de cualq lado
+contacto_index:
+  url:  /
+  param: { module: contacto, action: index }
+  class: aRoute
+
+# con esta entra desde contacto del menu principal
+contacto:
+  url:   /contacto
+  param: { module: contacto, action: index }
+
+contacto_gracias:
+  url:  /
+  param: { module: contactos, action: gracias }
+# class: aRoute
+
+contacto_action:
+  url: /:action
+  param: { module: contacto }
+  class: aRoute
+
+
+
+
+
+# A default rule that gets us to actions outside of the CMS.
+# Note that you can't have pages with a slug beginning with /admin
+# on a site that uses this particular rule. You could use a 
+# different prefix. Or you could provide rules for every
+# module, or even for every action. This is just the simplest way.
+
+default:
+  url:   /admin/:module/:action/*
+
+# A homepage rule is expected by a and various other plugins,
+# so be sure to have one
+
+homepage:
+  url:  /
+  param: { module: a, action: show, slug: / }
+
+# Put any routing rules for other modules and actions HERE,
+# before the catch-all rule that routes URLs to the
+# CMS by default.
+
+contacto:
+  url:  /contacto
+  param: { module: a, action: index, slug: /contacto }
+
+contacto:
+  url:  /contacto
+  param: { module: a, action: index, slug: /empresa/contacto }
+
+recetas:
+  url:  /el-cafe/recetas
+  param: { module: a, action: show, slug: /el-cafe/recetas }
+
+el_cafe:
+  url:  /productos/cafe
+  param: { module: a, action: show, slug: /productos/cafe }
+
+preparacion:
+  url:  /el-cafe/preparación
+  param: { module: a, action: show, slug: /el-cafe/preparación }
+
+# Must be the last rule
+a_page:
+  url:   /:slug
+  param: { module: a, action: show }
+  requirements: { slug: .* }
+

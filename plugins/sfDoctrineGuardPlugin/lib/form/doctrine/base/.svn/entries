@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/base
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+BasesfGuardFormSignin.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+3842d9b769b7c560581463ba59520c77
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+BasesfGuardUserAdminForm.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+7d804eefe39db18937400e7f21e0368a
+2010-07-31T19:50:31.953831Z
+4
+diego
+

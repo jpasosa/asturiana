@@ -1,0 +1,53 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Service/Twitter
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+eb7725c8fa7620b76657c480e60dc678
+2010-07-31T19:05:20.200846Z
+3
+diego
+has-props
+
+Search.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+2a77922a7966182ff260c849da2a57f2
+2010-07-31T19:05:20.200846Z
+3
+diego
+

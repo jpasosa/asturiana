@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/test/functional/fixtures/apps/frontend/modules/autoload/templates
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+indexSuccess.php
+file
+
+
+
+
+2010-07-31T20:59:50.000000Z
+5d239e625d4e06bccfdba6c1d8b3e27b
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+myAutoloadSuccess.php
+file
+
+
+
+
+2010-07-31T20:59:50.000000Z
+618b14d6fd63de9d2ddd6c26d9e5894a
+2010-07-31T19:05:20.200846Z
+3
+diego
+

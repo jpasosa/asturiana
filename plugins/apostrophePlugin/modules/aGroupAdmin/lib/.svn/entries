@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/apostrophePlugin/modules/aGroupAdmin/lib
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+aGroupAdminGeneratorConfiguration.class.php
+file
+
+
+
+
+2010-07-31T20:59:37.000000Z
+e02394a4ba8b4bab90dd510721d22baf
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+aGroupAdminGeneratorHelper.class.php
+file
+
+
+
+
+2010-07-31T20:59:37.000000Z
+5824c22cc1d899644f9b103139fa4283
+2010-07-31T19:50:31.953831Z
+4
+diego
+

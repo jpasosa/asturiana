@@ -1,0 +1,80 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/apostrophePlugin/web/js/fckeditor/editor/skins/afck
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+fck_dialog_ie6.js
+file
+
+
+
+
+2010-07-31T20:59:39.000000Z
+ab614b4818f39ce97d626c947fdc8365
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+fck_editor.css
+file
+
+
+
+
+2010-07-31T20:59:39.000000Z
+d762b87fda9582b98e9bd5dd49c21bca
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+images
+dir
+
+fck_strip.gif
+file
+
+
+
+
+2010-07-31T20:59:39.000000Z
+23a38729f941bd1358a1d74ea0167b24
+2010-07-31T19:50:31.953831Z
+4
+diego
+has-props
+
+fck_dialog.css
+file
+
+
+
+
+2010-07-31T20:59:39.000000Z
+793cdf6da9a703d1b10dc545f507ac9f
+2010-07-31T19:50:31.953831Z
+4
+diego
+

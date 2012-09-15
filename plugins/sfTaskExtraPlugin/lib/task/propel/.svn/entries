@@ -1,0 +1,67 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfTaskExtraPlugin/lib/task/propel
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+sfPropelBuildAppFormsTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+9e24ee110cce8be3903ae6a2ad042be3
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+sfPropelBuildAppFiltersTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+4fa6d1d18ffaa9833539e3b07e78c454
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+skeleton
+dir
+
+sfTaskExtraPropelBaseTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+f81664aadd53fd815ac7510fa4e4503e
+2010-07-31T19:50:31.953831Z
+4
+diego
+

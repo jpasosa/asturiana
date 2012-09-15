@@ -1,0 +1,79 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfTaskExtraPlugin/lib/task/doctrine
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+sfTaskExtraDoctrineBaseTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+e9b24c8fa03baa89ce6428839034c9f9
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+skeleton
+dir
+
+sfDoctrineBuildAppFormsTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+a17ca191f2200fdddecd0803f9cfc058
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+sfDoctrineCompileTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+47ad38c1971cb69252cd3bd5b57ca262
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+sfDoctrineBuildAppFiltersTask.class.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+1dcb17b69b8b0e93adae0c8c920db444
+2010-07-31T19:50:31.953831Z
+4
+diego
+

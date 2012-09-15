@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * @package    Dondestudiar
+ * @author     Cooperativa Hormigón
+ */
+class ContactoFormDoctrine extends BaseFormDoctrine
+{
+  public function configure() {
+
+  }
+}

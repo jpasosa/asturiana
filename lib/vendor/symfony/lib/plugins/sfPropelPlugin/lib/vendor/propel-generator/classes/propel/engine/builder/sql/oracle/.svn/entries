@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/oracle
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+OracleDDLBuilder.php
+file
+
+
+
+
+2010-07-31T20:59:56.000000Z
+b6610897c0709d6d49ebf067a8d22335
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+OracleDataSQLBuilder.php
+file
+
+
+
+
+2010-07-31T20:59:56.000000Z
+41feadcc9e3bfdc14ed452353474a431
+2010-07-31T19:05:20.200846Z
+3
+diego
+

@@ -1,0 +1,53 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/phing/lib
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Capsule.php
+file
+
+
+
+
+2010-07-31T20:59:56.000000Z
+c1defbf4b7a8375d6f0c6246ba02179c
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Zip.php
+file
+
+
+
+
+2010-07-31T20:59:56.000000Z
+3219e94973d87cce12d0ce88e96b5d25
+2010-07-31T19:05:20.200846Z
+3
+diego
+has-props
+

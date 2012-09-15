@@ -1,0 +1,82 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Dojo
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Data.php
+file
+
+
+
+
+2010-07-31T20:59:42.000000Z
+19320dfec3f15b315bb0349e3c26b434
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+BuildLayer.php
+file
+
+
+
+
+2010-07-31T20:59:42.000000Z
+aeb2e0681c134e19f37c91340678fd3e
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Form
+dir
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:42.000000Z
+a4447caf14f04d9ec06d6ae4da7ca9a9
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Form.php
+file
+
+
+
+
+2010-07-31T20:59:42.000000Z
+11a6be3d57d2e4dd59a1ab557545b335
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+View
+dir
+

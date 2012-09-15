@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfTaskExtraPlugin/lib/task/generator/skeleton/plugin/plugin/test/bootstrap
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+unit.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+03672ee12d05acff3af3d4dafaad0ec2
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+functional.php
+file
+
+
+
+
+2010-07-31T20:59:41.000000Z
+171c31ce797927a2d8f1bb3786c4507a
+2010-07-31T19:50:31.953831Z
+4
+diego
+

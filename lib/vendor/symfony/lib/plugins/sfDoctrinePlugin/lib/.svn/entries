@@ -1,0 +1,82 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+test
+dir
+
+widget
+dir
+
+validator
+dir
+
+debug
+dir
+
+generator
+dir
+
+routing
+dir
+
+vendor
+dir
+
+pager
+dir
+
+task
+dir
+
+form
+dir
+
+database
+dir
+
+cli
+dir
+
+mailer
+dir
+
+sfDoctrineException.class.php
+file
+
+
+
+
+2010-07-31T20:59:54.000000Z
+29381328202ea19cc35c83378f73cca1
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+record
+dir
+

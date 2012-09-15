@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfDoctrineActAsTaggablePlugin/lib/filter/doctrine
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+PluginTaggingFormFilter.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+11cc0d10e34e5ccd9797b57d416d5e37
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+PluginTagFormFilter.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+ef721d5cb9b336dc52e809a700b00aa4
+2010-07-31T19:50:31.953831Z
+4
+diego
+

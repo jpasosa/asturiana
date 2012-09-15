@@ -1,0 +1,55 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Crypt/Math
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+BigInteger
+dir
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+154669574281d0ae2f4fa27e86b8153a
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+BigInteger.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+d754735f289eda549447e20591d0e15c
+2010-07-31T19:05:20.200846Z
+3
+diego
+

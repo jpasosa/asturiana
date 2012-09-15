@@ -1,0 +1,67 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/apostrophePlugin/web/css/ui-apostrophe
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+images
+dir
+
+jquery-ui-1.7.2.custom.css
+file
+
+
+
+
+2010-07-31T20:59:38.000000Z
+bf972d37d835c8b68a01eeee9d282879
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+jquery-ui-1.7.3.custom.css
+file
+
+
+
+
+2010-07-31T20:59:38.000000Z
+38c16b47c9b2cf4b7b79b65fd6df7c31
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+jquery-ui-1.8.2.custom.css
+file
+
+
+
+
+2010-07-31T20:59:38.000000Z
+172751e2cffd5d0c5b465c14f3af8124
+2010-07-31T19:50:31.953831Z
+4
+diego
+

@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/sfDoctrineActAsTaggablePlugin/modules/taggableComplete/actions
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+components.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+ef18275dc92c8f731c9c27b8d702d1bd
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+actions.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+2234489b7cf092db18dc0b5c0f44b399
+2010-07-31T19:50:31.953831Z
+4
+diego
+

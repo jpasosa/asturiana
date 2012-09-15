@@ -1,0 +1,54 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Service/Amazon/S3
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Stream.php
+file
+
+
+
+
+2010-07-31T20:59:42.000000Z
+7aefc0801a5f6f6d665d60cc7d74584d
+2010-07-31T19:05:20.200846Z
+3
+diego
+has-props
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:42.000000Z
+292f472c7e148166a7383c931946028b
+2010-07-31T19:05:20.200846Z
+3
+diego
+has-props
+

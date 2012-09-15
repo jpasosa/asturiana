@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Application/Module
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Bootstrap.php
+file
+
+
+
+
+2010-07-31T20:59:48.000000Z
+015160e8fd86baaedc8a0ca6d28c29aa
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Autoloader.php
+file
+
+
+
+
+2010-07-31T20:59:48.000000Z
+58b658fed47c3a55b7f117b433d9277b
+2010-07-31T19:05:20.200846Z
+3
+diego
+

@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/test/unit/autoload
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+sfCoreAutoloadTest.php
+file
+
+
+
+
+2010-07-31T20:59:49.000000Z
+1d326534fe9474f1e5113369870360d2
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+sfSimpleAutoloadTest.php
+file
+
+
+
+
+2010-07-31T20:59:49.000000Z
+eeabf422cf332ced486d4dd27b15c2a1
+2010-07-31T19:05:20.200846Z
+3
+diego
+

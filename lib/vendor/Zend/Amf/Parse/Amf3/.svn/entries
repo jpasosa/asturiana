@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Amf/Parse/Amf3
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Serializer.php
+file
+
+
+
+
+2010-07-31T20:59:48.000000Z
+c10f7068e19ad0ef9dff624b806186e7
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Deserializer.php
+file
+
+
+
+
+2010-07-31T20:59:48.000000Z
+e10a2d3c587636758bbb0a925c9c35fb
+2010-07-31T19:05:20.200846Z
+3
+diego
+

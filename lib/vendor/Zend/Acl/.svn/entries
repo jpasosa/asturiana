@@ -1,0 +1,73 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Acl
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Assert
+dir
+
+Role
+dir
+
+Exception.php
+file
+
+
+
+
+2010-07-31T20:59:46.000000Z
+bf4387498ba6aa809e164fee3c97bcf2
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Resource
+dir
+
+Role.php
+file
+
+
+
+
+2010-07-31T20:59:46.000000Z
+ada729ff6b19a7df87768c5cb1d88083
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Resource.php
+file
+
+
+
+
+2010-07-31T20:59:46.000000Z
+0358404b366f5c528d2dc2dd5e7476af
+2010-07-31T19:05:20.200846Z
+3
+diego
+

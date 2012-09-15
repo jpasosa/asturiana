@@ -1,0 +1,52 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Pdf/Filter/Compression
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Flate.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+a1ca1c372809a6f9a9f5ef1ef440834c
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Lzw.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+00e315a2250854bc071139b9a7e02cbd
+2010-07-31T19:05:20.200846Z
+3
+diego
+

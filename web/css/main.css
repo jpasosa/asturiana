@@ -1,0 +1,2705 @@
+/* aSandbox Defaul CSS */
+/* gagrego coistassssss */
+
+
+/* agquiiiii */
+
+
+body{
+  text-align:center;
+  background:url("../images/body-bkg.jpg") repeat-x #49341d;
+  Font-family: Trebuchet MS;
+}
+
+#a-global-toolbar {
+  border:0 none;
+  margin:0 0 5px;
+  min-height:0;
+  padding:0;
+}
+
+#a-wrapper {
+  display: inline-block;
+  border: 1px solid #7f5732;
+  background:#d1af7e;
+  width: 888px;
+  margin: 0 0 5px 0;
+}
+
+#a-wrapper #a-header{
+  display:inline-block;
+  float:none;
+  clear:both;
+  width:850px;
+  padding-top:18px;
+  position: relative;
+}
+
+#a-wrapper #a-content{
+  display:inline-block;
+  float: left;
+  clear:both;
+  width:850px;
+/*   background: #fff; */
+/*   background: #6c4723; */
+}
+
+#a-footer {
+  clear:both;
+  float:left;
+  font-size:11px;
+  width:100%;
+  display:inline;
+  text-align:left;
+  
+}
+
+#a-footer strong{
+  font-weight:bold;
+}
+
+#a-footer .cinta{
+  color:#ffffff;
+  background:#004a15;
+  padding:7px 0 7px 33px;
+  position: relative;
+}
+
+#a-footer .cinta .logo {
+  background-image: url(/images/logo.png);
+  width: 135px;
+  height: 54px;
+  position: absolute;
+  top: -13px;
+  right: 38px;
+}
+
+#a-footer .comunicate{
+  color:#402100;
+  padding:9px 0 13px 33px;
+  font-family:trebuchet MS;
+  font-size:13px;
+}
+
+
+/* Basic Elements =========================================== */
+
+h1
+{
+  font-size: 30px;
+}
+
+h2
+{
+  font-size: 24px;
+  margin: 0 0 10px 0;
+}
+
+h3
+{
+  font-size: 18px;
+  color: #666;
+}
+
+h4,
+h5,
+h6
+{
+  font-size: 14px;
+  color: #666;
+}
+
+br.c
+{
+  clear: both;
+  margin: 10px 0;
+}
+
+a
+{
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+
+
+
+
+/* Basic Layout =========================================== */
+
+
+.a-area-body
+{
+  width:480px;
+  float:left;
+  display:inline;
+  position:relative;
+}
+
+.a-home .a-area-body
+{
+  width: 720px;
+}
+
+
+
+
+/* Top Navigation =========================================== */
+
+.a-nav-main
+{
+  background:url("../images/main-nav-bkg.jpg") repeat-x #49341d;
+  float: left;
+  display: inline;
+  width: 100%;
+  clear: both;
+  height:35px;
+}
+
+.a-nav-main .a-nav-item
+{
+  float: left;
+  display: inline;
+}
+
+.a-nav-main .a-nav-item.last
+{
+}
+
+.a-nav-main .a-nav-item a
+{
+  float: left;
+  display: inline;
+  text-decoration: none;
+  color: #d1af7e;
+  text-transform: uppercase;
+  font-weight:bold;
+  font-family:trebuchet MS;
+  font-size:15px;
+  height:15px;
+  line-height:15px;
+  padding: 11px 16px;
+}
+
+
+#home_tab {
+  position:absolute;
+  right:0;
+  text-decoration: none;
+  color: #d1af7e;
+  text-transform: uppercase;
+  font-weight:bold;
+  font-family:trebuchet MS;
+  font-size:15px;
+  height:15px;
+  line-height:15px;
+  padding: 11px 16px;
+}
+
+#home_tab:hover {
+  color: #FFFFFF;
+}
+
+
+.a-nav-main .a-nav-item.a-current-page a,
+.a-nav-main .a-nav-item a:hover, 
+.a-nav-main .a-nav-item.ancestor a {
+  color:#fff;
+}
+
+.cafecito {
+  background-image: url(/images/cafecito.png);
+  width: 40px;
+  height: 51px;
+  position: absolute;
+  top: -4px;
+  right: 91px;
+}
+
+
+
+/* SUB NAV */
+
+.a-nav-sub-main {
+  background:#8f6941;
+  float: left;
+  display: inline;
+  width: 100%;
+  clear: both;
+  height: 23px;
+  margin-top: 1px;
+}
+
+.a-nav-sub-main .a-nav-item {
+  float: left;
+  display: inline;
+}
+
+.a-nav-sub-main .a-nav-item.a-current-page {
+  font-weight: bold; 
+}
+
+
+.a-nav-sub-main .a-nav-item a
+{
+  float: left;
+  display: inline;
+  text-decoration: none;
+  color: #FFFFFF;
+  text-transform: capitalize;
+/*   font-weight:bold; */
+  font-family:trebuchet MS;
+  font-size:12px;
+/*   height:15px; */
+/*   line-height:15px; */
+/*   padding: 11px 16px; */
+  margin: 3px 10px 0 16px;
+}
+
+.a-nav-sub-main .a-nav-item a:hover {
+  text-decoration: underline;
+}
+/* END SUB NAV */
+
+
+
+
+/* POSTAL NAVIGATION */
+.a-nav-postal
+{
+  
+  float: left;
+  /*margin: 0 auto;*/
+  width: 450px;
+  position: absolute;
+  bottom: 5px;
+  left: 0px;
+}
+.a-nav-postal .a-nav-item
+{
+  display: inline;
+  margin: 0 5px 0 5px;
+}
+
+.a-nav-postal .a-nav-item.a-current-page {
+  font-weight: bold;
+}
+
+.a-nav-postal .a-nav-item a
+{
+  display: inline-block;
+/*   padding: 3px; */
+  color: #004A15;
+}
+
+.a-nav-postal .a-nav-item a:hover {
+  text-decoration: underline;
+}
+/* END POSTAL NAVIGATION */
+
+
+
+/* SERVICIOS NAVIGATION */
+.a-nav-servicios
+{
+  float: left;
+  width: 450px;
+  position: absolute;
+  bottom: 5px;
+  left: 0px;
+  
+  }
+.a-nav-servicios .a-nav-item
+{
+  display: inline;
+  margin: 0 5px 0 5px;
+}
+
+.a-nav-servicios .a-nav-item.a-current-page {
+  font-weight: bold;
+}
+
+.a-nav-servicios .a-nav-item a
+{
+  display: inline-block;
+  padding: 3px;
+  color: #004A15;
+}
+
+.a-nav-servicios .a-nav-item a:hover {
+  text-decoration: underline;
+}
+/* END SERVICIOS NAVIGATION */
+
+
+
+
+/* COLORES NAVIGATION */
+.a-nav-colores
+{
+  clear:both;
+  margin: 20px 20px 0 20px;
+}
+.a-nav-colores .a-nav-item
+{
+  background:##3B1D01;
+  margin-bottom:8px;
+}
+.a-nav-colores .item-0 {background-color: #018e28;}
+.a-nav-colores .item-1 {background-color: #7f5733;}
+.a-nav-colores .item-2 {background-color: #6e04c0;}
+.a-nav-colores .item-3 {background-color: #be8d04;}
+.a-nav-colores .item-4 {background-color: #999900;}
+.a-nav-colores .item-5 {background-color: #2e4392;}
+.a-nav-colores .item-6 {background-color: #e05a1d;}
+.a-nav-colores .item-7 {background-color: #ffffff;}
+.a-nav-colores .item-8 {background-color: #6e04c0;}
+.a-nav-colores .item-9 {background-color: #004a15;}
+.a-nav-colores .item-10 {background-color: #d1af7f;}
+.a-nav-colores .item-11 {background-color: #fe2f03;}
+.a-nav-colores .item-12 {background-color: #e6e678;}
+.a-nav-colores .item-13 {background-color: #018e28;}
+.a-nav-colores .item-14 {background-color: #7f5733;}
+
+.a-nav-colores .a-nav-item a
+{
+  background: #7f5733;
+  border-right: 2px solid #3B1D01;
+  display: block;
+  margin-right: 10px;
+  height: 22px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+/* END COLORES NAVIGATION */
+
+
+
+/* Subnav =========================================== */
+
+.a-subnav-wrapper
+{
+  background: #ddd;
+}
+
+.a-nav-subnav .a-nav-item .a-drag
+{
+  position: absolute;
+  right: 0;
+}
+
+.a-nav-subnav .a-nav-item .a-drag,
+.a-nav-subnav .a-nav-item .a-drag *
+{
+  background-color: transparent;
+}
+
+.a-nav-subnav .a-nav-item
+{
+float: left;
+width: 100%;
+clear: both;
+position: relative;
+line-height: 20px;
+margin-bottom: 5px;
+}
+
+.a-nav-subnav .a-nav-item.last
+{
+  margin-bottom: 0;
+}
+
+.a-nav-subnav .a-nav-item a
+{
+  float: left;
+  display: inline;
+  clear: both;
+  color: #fff;
+  width: 155px;
+  height: 100%;
+  padding: 0 20px 0 5px;
+}
+
+.a-nav-subnav .a-nav-item a:hover
+{
+  color: #333;
+  background: #fff;
+  text-decoration: none;
+}
+
+.a-subnav-wrapper.blog h4
+{
+  float: left;
+  width: 100%;
+  clear: both;
+  display: inline;
+  position: relative;
+  font-size: 14px;
+}
+
+.a-subnav-wrapper.blog .a-blog-filter-options
+{
+  float: left;
+  width: 100%;
+  clear: both;
+  display: inline;
+  position: relative;
+  line-height: 20px;
+}
+
+.a-subnav-wrapper.media .a-media-filter-options a,
+.a-subnav-wrapper.blog .a-blog-filter-options a
+{
+  float: left;
+  clear: both;
+  display: inline;
+  width: auto;
+  padding: 0 5px;
+}
+
+/* Breadcrumb Component =========================================== */
+
+#a-breadcrumb-component
+{
+  float: left;
+  width: 100%;
+  font-size: 18px;
+  margin: 0 0 20px 0;
+}
+
+#a-breadcrumb-component li
+{
+  float: left;
+  margin-right: 5px;
+}
+
+/* Basic Blog Styles ====================================== */
+
+#a-blog-main,
+.a-blog-item,
+.a-blog-item-title,
+.a-blog-item-meta,
+.a-blog-item-tags,
+.a-blog-item-media,
+.a-blog-item-body,
+.a-blog-item-excerpt-container
+{
+  float: left;
+  clear: both;
+  display: inline;
+  position: relative; 
+  width: 100%;
+}
+
+.a-blog-main hr
+{
+  float: left;
+  width: 100%;
+  margin-bottom:10px;
+  height: 1px;
+  border: none;
+  background: rgba(0,0,0,0.125);
+}
+
+.a-blog-item .a-area
+{
+  margin-top:0;
+}
+
+.a-blog-item-title,
+.a-blog-item-meta,
+.a-blog-item-tags,
+.a-blog-item-media,
+.a-blog-item-body,
+.a-blog-item-excerpt
+{
+  margin-bottom: 10px;
+}
+
+.a-blog-item-excerpt-container
+{
+  margin-bottom:20px;
+}
+
+.a-blog-item-body p
+{
+  margin-bottom: 10px;
+}
+
+.a-blog-item-tags li
+{
+  float: left;
+  margin: 0 5px 0 0;
+}
+
+.a-blog-item-meta
+{
+  font-size: 11px;
+  color: #888;
+}
+
+.a-blog ul.a-slideshow-controls
+{
+  border:medium none;
+  display:inline;
+  float:left;
+  height:20px;
+  margin-right:1px;
+  position:absolute;
+  right:0;
+  top:-24px;
+  width:auto;
+}
+
+.addthis_toolbox
+{
+  float:left;
+  width: auto;
+  clear: both;
+  padding: 5px;
+  background: #fff;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px; 
+}
+
+.aEvent .addthis_toolbox
+{
+  margin-left: 140px;
+  font-size: 11px;
+  color: #999;
+}
+
+.a-event-date-range span
+{
+  float: left;
+  width: 100%;
+  color: #222;
+}
+
+.a-event-date-range .end_date
+{
+  margin-top: 5px;
+}
+
+/* Blog Templates ====================================== */
+
+.post.singleColumnTemplate .a-blog-item-meta
+{
+  margin-top: -3px;
+}
+
+.post.singleColumnTemplate .a-blog-item-meta li
+{
+  float: left;
+  width: auto;
+  clear: none;
+  line-height: 1.2;
+}
+
+.post.singleColumnTemplate .a-blog-item-meta li.author
+{
+  margin-left: 5px;
+  padding-left: 5px;
+  border-left: 1px solid #ccc;
+}
+
+.post.singleColumnTemplate .a-area-blog-body
+{
+width: 680px;
+}
+
+.post.twoColumnTemplate .a-area-blog-sidebar
+{
+margin-left: 20px;
+width: 180px;
+}
+
+/*  Blog - Single Column - Default Page Body Slot */
+
+
+.post.singleColumnTemplate.inDefaultPageBody .a-area-blog-body
+{
+width: 480px;
+}
+
+.event.singleColumnTemplate.has-media .a-blog-item-media
+{
+  float: left;
+  clear: none;
+  width: 100px;
+}
+
+.event.singleColumnTemplate.has-media .a-blog-item-excerpt-container
+{
+  float: left;
+  clear: none;
+  width: 100%;
+}
+
+.event.singleColumnTemplate.has-media .a-blog-item-excerpt,
+.event.singleColumnTemplate.has-media .a-blog-read-more
+{
+  float: left;
+  clear: left;
+  margin-left: 140px;
+}
+
+/*  Blog - Two Column - Default Page Body Slot */
+
+
+.post.twoColumnTemplate.inDefaultPageBody .a-area-blog-body
+{
+width: 300px;
+}
+
+.post.twoColumnTemplate.inDefaultPageBody .a-area-blog-sidebar
+{
+margin-left: 20px;
+width: 160px;
+}
+
+/* Event Templates =========================================== */
+
+
+/*  Event - Single Column */
+
+.event.singleColumnTemplate .a-area-blog-body
+{
+width: 580px;
+}
+
+.a-blog .event.singleColumnTemplate .a-area-blog-body 
+{
+float: right;
+}
+
+.a-blog .event.singleColumnTemplate .a-blog-item-title
+{
+  float: right;
+  margin-left: -120px;
+  width: 580px;
+}
+
+/*  Event - *** Single Column styles scoped to the sidebar without a template override */
+
+.a-area-sidebar .event.singleColumnTemplate .a-blog-item-meta,
+.event.singleColumnTemplate .a-blog-item-meta
+{
+  float: left;
+  width: auto;
+  clear: none;
+  width: 120px;
+  margin-right: 20px;
+}
+
+.a-area-sidebar .event.singleColumnTemplate .a-blog-item-meta
+{
+  width: 35%;
+  margin-right: 5%;
+}
+
+.a-area-sidebar .event.singleColumnTemplate .a-blog-item-title,
+.a-area-sidebar .event.singleColumnTemplate .a-blog-item-media,
+.a-area-sidebar .event.singleColumnTemplate .a-blog-item-excerpt-container
+{
+  width: 60%;
+  clear: right;
+  float: right;
+}
+/* Variants =========================================== */
+
+
+/* aSlideshow Slot Bundled Variant Style - Compact */
+
+.a-slot.aSlideshow.compact
+{
+  margin-top: 0;
+}
+
+.a-slot.aSlideshow.compact ul.a-slideshow-controls
+{
+  position:absolute;
+  top: auto;
+  left: auto;
+  bottom:0;
+  right:0;
+  margin: 0;
+  width:100%;
+  z-index:888;
+  min-height: 30px;
+  height: auto;
+}
+
+.a-slot.aSlideshow.compact ul.a-slideshow-controls li
+{
+  height: 30px;
+  width: 30px;
+  margin: 0 5px;  
+}
+
+.a-slot.aSlideshow.compact ul.a-slideshow-controls .a-arrow-left
+{
+  background-image: url(/apostrophePlugin/images/a-icon-arrow-left-thin-alt.png);
+  position: absolute;
+  top: 0;
+  right: 30px;
+}
+
+.a-slot.aSlideshow.compact ul.a-slideshow-controls .a-arrow-right
+{
+  background-image: url(/apostrophePlugin/images/a-icon-arrow-right-thin-alt.png);
+  float: right;
+}
+
+.a-slot.aSlideshow.compact ul.a-slideshow-controls .a-arrow-right:hover,
+.a-slot.aSlideshow.compact ul.a-slideshow-controls .a-arrow-left:hover
+{
+background-position: 0 -30px !important;
+}
+
+.a-slot.aSlideshow.compact .a-slideshow-title
+{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  color: #fff;
+  font-size: 11px;
+  line-height: 1.3;
+  background: rgba(0,0,0,0.35); 
+}
+
+.a-slot.aSlideshow.compact .a-slideshow-title span
+{
+  float: left;
+  padding: 8px 70px 8px 8px;  
+}
+
+
+.a-slot.aSlideshow.autoplay .a-slideshow-title
+{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 184px;
+  padding: 8px;
+  margin: 0;
+  color: #fff;
+  font-size: 11px;
+  line-height: 1.3;
+  background: rgb(0,0,0); 
+  background: rgba(0, 0, 0, 0.35);  
+}
+
+.tree{
+  text-align:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Template HOME =========================================== */
+
+#a-wrapper #a-content .home-wrapper {
+  background: url("../images/home_fondo.jpg") no-repeat center center;
+  width: 850px;
+  height: 551px;
+  margin: -3px 0 0 19px;
+  float: left;
+}
+
+.home-wrapper {
+  float: left;
+  /*background-color: #4d2f0b;*/
+}
+
+
+/* esto por ahora no lo toma, porque no genera la clase home */
+/*#a-wrapper #a-content.home {
+  background: url("../images/personal-fondo.jpg") no-repeat center center;
+  height: 527px;
+  margin: -4px 0 0 18px;
+  float: left;
+}*/
+
+
+.home-wrapper .parte_izq {
+  height: 551px;
+  width: 220px;
+  background: url("../images/home_muestra_izq.png") repeat scroll 0 0 transparent;
+  float: left;
+  margin: 0;
+}
+
+.home-wrapper .parte_izq .botones {
+  margin: 10px 0 0 0;
+  float: left;
+}
+
+.home-wrapper .parte_izq .botones .nuestro_cafe {
+  float: left;
+  width: 100%;
+}
+
+.home-wrapper .parte_izq .botones .recetas,
+.home-wrapper .parte_izq .botones .preparacion {
+  float: left;
+  width: 100%;  
+}
+
+.home-wrapper .parte_izq .botones .nuestro_cafe img,
+.home-wrapper .parte_izq .botones .recetas img, 
+.home-wrapper .parte_izq .botones .preparacion img {
+  margin: 10px 0 0 25px;
+  float: left;
+}
+
+.home-wrapper .parte_izq .botones .nuestro_cafe .titulo,
+.home-wrapper .parte_izq .botones .recetas .titulo, 
+.home-wrapper .parte_izq .botones .preparacion .titulo {
+  color: #d1b07d;
+  font-size: 14px;
+  float: left;
+  margin: 10px 0 0 10px;
+  text-align: left;
+  width: 110px;
+}
+
+.home-wrapper .parte_izq .botones .nuestro_cafe .contenido,
+.home-wrapper .parte_izq .botones .recetas .contenido, 
+.home-wrapper .parte_izq .botones .preparacion .contenido {
+  color: #FFFFFF;
+  font-size: 12px;
+  margin: 3px 0 0 10px;
+  float: left;
+}
+
+.home-wrapper .parte_izq .texto_centrado {
+  color: #FFFFFF;
+  font-size: 14px;
+  margin: 50px 0 0 17px;
+  float: left;
+}
+
+.home-wrapper .parte_izq .texto_centrado p {
+  text-align: center;
+  width: 190px;
+}
+
+.home-wrapper .parte_izq img {
+  margin: 40px 0 0 0;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EMPRESA */
+
+.col-left .col-left-wrapper{
+  background:none repeat scroll 0 0 #FFFFFF;
+  height:508px;
+  margin:10px;
+  overflow:hidden;
+  padding:10px;
+  width:410px;
+}
+
+.col-left .a-area-col-left-title{
+  margin: 0;
+}
+
+.col-left .a-area-col-left-content {
+  margin: 0;
+  text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Template Personal =========================================== */
+
+
+
+.personal-wrapper {
+  float: left;
+  /*background-color: #4d2f0b;*/
+}
+
+#a-wrapper #a-content.personal {
+  background: url("../images/fondo-personal.jpg") no-repeat center center;
+  height: 525px;
+  margin: -4px 0 0 19px;
+  float: left;
+}
+
+
+.personal-wrapper .cuadro-grande {
+  width: 410px;
+  height: 335px;
+  margin: 10px 0 0 20px;
+  float: left;
+  background-color: #dcd9d4;
+  border: 1px solid #dfd5c9;
+}
+
+.personal-wrapper .cuadro-grande .titulo {
+  font-size: 16px;
+  color: #462303;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  float: left;
+  margin: 6px 0 0 0;
+}
+
+.personal-wrapper .cuadro-grande .foto-grande {
+  margin: 7px 0 0 11px;
+  float: left;
+  width: 386px;
+  height: 290px;
+  background: url("../images/personal/foto8-g.jpg") no-repeat;
+}
+
+.personal-wrapper .cuadro-carrousel {
+  width: 850px;
+  height: 127px;
+  background-color: #dcd9d4;
+  float: left;
+  margin: 30px 0 0 0;
+  position: relative;
+  
+}
+
+.personal-wrapper .cuadro-carrousel #wrap {
+  position: relative;
+  margin-top: -3px;
+  height: 100px;
+}
+
+.personal-wrapper .cuadro-carrousel #wrap #mycarousel {
+  margin: 0;
+}
+
+.personal-wrapper .cuadro-carrousel #wrap  .jcarousel-skin-asturiana {
+  width: 786px;
+  margin: 3px 0 0 30px;
+  float: left;
+}
+
+.personal-wrapper .cuadro-carrousel #wrap #mycarousel ul {
+
+}
+
+.personal-wrapper .cuadro-carrousel #wrap #mycarousel ul li {
+  margin: 0 4px 0 4px;
+}
+
+.personal-wrapper .cuadro-carrousel #wrap #mycarousel ul li img {
+
+}
+
+.personal-wrapper .cuadro-carrousel #wrap .jcarousel-scroll {
+
+}
+
+.personal-wrapper .cuadro-carrousel #wrap .jcarousel-scroll #mycarousel-next {
+
+}     
+
+.jcarousel-scroll a#mycarousel-prev {
+  width: 22px;
+  height: 23px;
+/*  background: url("../images/personal/flecha-izq.png") no-repeat top right;*/
+  background: url("../images/flechaizquierda.png") no-repeat top left;
+  position: absolute;
+  top: 48px;
+  left: 3px;
+}
+
+.jcarousel-scroll a#mycarousel-prev:hover {
+  background-position: top right;
+}
+
+.jcarousel-scroll a#mycarousel-next {
+  width: 24px;
+  height: 23px;
+/*   background: url("../images/personal/flecha-derecha.png") no-repeat top left; */
+  background: url("../images/flechaderecha.png") no-repeat top left;
+  position: absolute;
+  top: 48px;
+  right: 0;
+}
+
+.jcarousel-scroll a#mycarousel-next:hover {
+  background-position: top right;
+}
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Template Ubicacion =========================================== */
+
+#a-wrapper #a-content.ubicacion {
+  float: left;
+  margin: -4px 0 0 19px;
+}
+
+.ubicacion-wrapper {
+  background-color: #f6efe5;
+  float: left;
+}
+
+.ubicacion-wrapper .foto-ubicacion {
+  width: 510px;
+  height: 510px;
+  float: left;
+  margin: 10px 0 10px 20px;
+}
+
+
+
+/*.ubicacion-wrapper .firulete-izq {
+  float: left;
+  margin: 10px 0 0 5px;
+}*/
+
+.ubicacion-wrapper .datos-der {
+  width: 320px;
+  float: left;
+  font-family: Trebuchet MS;
+  color: #3f2100;
+  background:url("../images/fondo-ubicacion.png") no-repeat transparent 10px 10px;
+  height: 530px;
+}
+
+.ubicacion-wrapper .datos-der .titulo-principal {
+  margin: 92px 103px 0 0;
+  font-size: 29px;
+  color: #3f2100;
+  float: right;
+  font-weight: bold;
+}
+
+.ubicacion-wrapper .datos-der .titulo {
+  font-size: 15px;
+  float: left;
+  margin: 10px 0 0 0;
+  width: 100%;
+}
+
+.ubicacion-wrapper .datos-der .titulo .negrita {
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  float: left;
+}
+
+.ubicacion-wrapper .datos-der .titulo .normal {
+  font-weight: normal;
+  text-align: center;
+}
+
+.ubicacion-wrapper .datos-der .primer-parr {
+  font-size: 13px;
+  float: left;
+  margin: 30px 0 0 0;
+}
+
+.ubicacion-wrapper .datos-der .primer-parr .negrita {
+  font-weight: bold;
+  text-align: center;
+  width: 320px;
+  float: left;
+}
+
+.ubicacion-wrapper .datos-der .primer-parr .normal {
+  font-weight: normal;
+  text-align: center;
+  width: 320px;
+  float: left;
+}
+
+.ubicacion-wrapper .datos-der .segundo-parr {
+  width: 100%;
+  font-size: 13px;
+  float: left;
+  margin: 30px 0 0 0;
+}
+
+.ubicacion-wrapper .datos-der .segundo-parr .negrita {
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  float: left;
+}
+
+.ubicacion-wrapper .datos-der .segundo-parr .normal {
+  font-weight: normal;
+  text-align: center;
+  width: 100%;
+  float: left;
+}
+
+.ubicacion-wrapper .datos-der .tercer-parr {
+  font-size: 13px;
+  float: left;
+  margin: 30px 0 0 0;
+  width: 100%;
+}
+
+.ubicacion-wrapper .datos-der .tercer-parr .negrita {
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  float: left;
+}
+
+.ubicacion-wrapper .datos-der .tercer-parr .normal {
+  font-weight: normal;
+  text-align: center;
+  width: 100%;
+  float: left;
+}
+
+
+
+
+
+
+
+
+/* Template Cartel-Blanco, maquetado de CAFE - HISTORIA DEL CAFE  ============================ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Template Recetas  ============================ */
+
+#a-wrapper #a-content.recetas {
+  float: left;
+}
+
+
+.recetas-wrapper {
+  float: left;
+  width: 850px;
+  margin: -4px 0 0 19px;
+}
+
+
+.recetas-wrapper .lado-izq {
+  width: 218px;
+  height: 519px;
+  float: left;
+  background: url("../images/fondo-izq-recetas.jpg") no-repeat center center #3b1d01;
+}
+
+.recetas-wrapper .lado-der {
+  width: 629px;
+  height: 518px;
+  float: left;
+  border-top: solid 1px #d1af7f;
+  border-left: solid 1px #d1af7f;
+  color: #4e2706;
+  font-family: Trebuchet MS;
+  background-color:#F8F3ED;
+}
+
+.recetas-wrapper .lado-der .arriba {
+  height: 380px;
+  float: left;
+  background-color: #f8f3ed;
+}
+
+.recetas-wrapper .lado-der .arriba .datos-receta {
+  width: 210px;
+  margin: 0 auto 0 auto;
+  float: left;
+}
+
+.recetas-wrapper .lado-der .arriba .datos-receta .superior {
+  float: left;
+  height: 190px;
+}
+
+.recetas-wrapper .lado-der .arriba .datos-receta .titulo {
+  font-weight: bold;
+  float: left;
+  width: 210px; /* para q se centre el titulo */
+  margin: 10px 0 0 0;
+}
+
+/* arreglo del margen */
+.recetas-wrapper .lado-der .arriba .datos-receta .titulo .a-area.a-area-recetas-tit-nombre {
+  margin: 0;
+}
+
+
+
+
+/* arreglo, para q se vea bien el tamaño del texto */
+.recetas-wrapper .lado-der .arriba .datos-receta .titulo .a-slot.aText {
+  font-size: 25px;
+}
+              
+        
+.recetas-wrapper .lado-der .arriba .datos-receta .descripcion {
+  font-weight: normal;
+  float: left;
+  margin: 0 5px 0 10px;
+  font-size: 12px;
+  text-align: left;
+}
+
+/* arreglo, para q se vea bien el tamaño del texto */
+.recetas-wrapper .lado-der .arriba .datos-receta .descripcion .a-slot.aText {
+  font-size: 13px;
+}
+
+.descripcion .a-area.a-area-recetas-con-descripcion .a-slots .a-slot.aText .a-slot-content p {
+  line-height: 13.3px;
+}
+
+
+.recetas-wrapper .lado-der .arriba .datos-receta .inferior {
+  float: left;
+  height: 200px;
+  text-align: left;
+  width: 100%;
+}
+
+.recetas-wrapper .lado-der .arriba .datos-receta .tit-ingredientes {
+
+}
+
+.recetas-wrapper .lado-der .arriba .datos-receta .tit-ingredientes {
+  float:left;
+  font-weight:bold;
+  margin: 0 0 0 10px;
+  width:100%;
+}
+
+.recetas-wrapper .lado-der .arriba .datos-receta .tit-ingredientes .a-slot.aText {
+  font-size: 13px;
+
+}
+.recetas-wrapper .lado-der .arriba .datos-receta .cont-ingredientes {
+  float: left;
+  font-size: 12px;
+  font-weight: normal;
+  margin: 0 5px 0 10px;
+  text-align: left;
+}
+
+.recetas-wrapper .lado-der .arriba .foto-receta {
+  width: 398px;
+  height: 368px;
+  float: right;
+}
+
+.recetas-wrapper .lado-der .abajo {
+  width: 629px;
+  float: left;
+}
+
+.recetas-wrapper .lado-der .abajo .preparacion {
+  float: left;
+  font-weight: bold;
+  clear: both;
+  margin: 0 0 0 10px;
+  
+    }
+
+.recetas-wrapper .lado-der .abajo .preparacion .a-area.a-area-recetas-tit-preparacion {
+  margin: 10px 0 0 0;
+
+}
+
+.recetas-wrapper .lado-der .abajo .txt-preparacion {
+  float: left;
+  font-size: 12px;
+  font-weight: normal;
+  margin: 0 5px 0 10px;
+  text-align: left;
+  width: 620px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*   Template: Elaboracion del cafe   *******************************************/
+
+#a-wrapper #a-content.elaboracion {
+  /*height: 528px;*/
+  float: left;
+}
+
+
+.elaboracion-wrapper {
+  float: left;
+  width: 850px;
+  margin: -4px 0 0 19px;
+}
+
+.elaboracion-wrapper .lado-izq {
+  width: 218px;
+  height: 519px;
+  float: left;
+  background: url("../images/fondo-izq-elaboracion.jpg") no-repeat center center #502d0d;
+}
+
+.elaboracion-wrapper .lado-izq img {
+
+}
+
+.elaboracion-wrapper .lado-der {
+  width: 629px;
+  height: 518px;
+  float: left;
+  border-top: solid 1px #d1af7f;
+  border-left: solid 1px #d1af7f;
+  color: #4e2706;
+  font-family: Trebuchet MS;
+  background-color:#F8F3ED;
+}
+
+.elaboracion-wrapper .lado-der .arriba {
+  float: left;
+  height: 445px;
+
+}
+
+.elaboracion-wrapper .lado-der .arriba .foto-elaboracion {
+  margin: 0 0 0 15px;
+}
+
+.elaboracion-wrapper .lado-der .abajo {
+  height: 50px;
+  float: left;
+  width: 100%;
+}
+
+.elaboracion-wrapper .lado-der .abajo .titulo {
+  float: left;
+  font-weight:bold;
+  margin:0 0 0 10px;
+}
+
+.elaboracion-wrapper .lado-der .abajo .titulo .a-area.a-area-recetas-tit-nombre {
+  margin: 0;
+}
+
+.elaboracion-wrapper .lado-der .abajo .titulo .a-slot.aText {
+  margin: 0;
+}
+
+
+    
+.elaboracion-wrapper .lado-der .abajo .descripcion {
+  float:left;
+  width: 620px;
+  font-weight:normal;
+  margin:0 5px 0 10px;
+  text-align:left;
+}
+
+
+.elaboracion-wrapper .lado-der .abajo .descripcion .a-area.a-area-recetas-con-descripcion {
+  margin: 0;
+}
+
+.elaboracion-wrapper .lado-der .abajo .descripcion .a-slot.aText {
+  font-size:11px;
+}
+
+/* edito para el login, para poder cargar la descripcion bien */
+.elaboracion-wrapper .lado-der .abajo .descripcion .a-slot.aText textarea.aTextSlot {
+  clear: both;
+  float: left;
+  width: 368px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*   Template: Para Productos y Servicios   *******************************************/
+
+
+
+/*fondos de productos y servicios*/
+#a-wrapper #a-content.productos {
+  background: url("../images/fondo_productos_principal.jpg") no-repeat center center;
+  height: 525px;
+  float: left;
+  margin: -4px 0 0 19px;
+}
+
+#a-wrapper #a-content.cafe {
+  background: url("../images/fondo_productos_cafe.jpg") no-repeat center center;
+  height: 525px;
+  float: left;
+  margin: -3px 0 0 19px;
+}
+
+#a-wrapper #a-content.snack {
+  background: url("../images/fondo_productos_snack.jpg") no-repeat center center;
+  height: 525px;
+  float: left;
+  margin: -3px 0 0 19px;
+}
+
+#a-wrapper #a-content.otros,
+#a-wrapper #a-content.chocolates,
+#a-wrapper #a-content.alfajorcitos,
+#a-wrapper #a-content.edulcorante,
+#a-wrapper #a-content.azucar {
+  background: url("../images/fondo_productos_otros.jpg") no-repeat center center;
+  height: 525px;
+  float: left;
+  margin: -3px 0 0 19px;
+}
+
+#a-wrapper #a-content.infusiones {
+  background: url("../images/fondo_productos_infusiones.jpg") no-repeat center center;
+  height: 525px;
+  float: left;
+/*   width: 100%; */
+  margin: -3px 0 0 19px;
+}
+
+#a-wrapper #a-content.maquinas,
+#a-wrapper #a-content.plus,
+#a-wrapper #a-content.lainex,
+#a-wrapper #a-content.eurobar,
+#a-wrapper #a-content.molinos {
+  background: url("../images/fondo-servicios-maquinas.jpg") no-repeat center center;
+  height: 528px;
+  float: left;
+  margin: -3px 0 0 19px;
+}
+
+#a-wrapper #a-content.servicio-tecnico {
+  background: url("../images/fondo-servicios-tecnico.jpg") no-repeat center center;
+  height: 528px;
+  float: left;
+  margin: -3px 0 0 19px;
+}
+
+#a-wrapper #a-content.logistica {
+  background: url("../images/fondo-servicios-logistica.jpg") no-repeat center center;
+  height: 528px;
+  float: left;
+  margin: -3px 0 0 19px;
+}
+
+
+
+
+
+.postal-wrapper {
+  float: left;
+  width: 850px;
+}
+
+.postal-wrapper .postal-contenedora {
+  width: 450px;
+  height: 485px;
+  float: right;
+  margin: 10px 20px 25px 0;
+  background: url(../images/fondo_transp.png) transparent;
+  position: relative;
+}
+
+.postal-wrapper .postal-contenedora .foto-postal {
+/*   float: left; */
+  margin: 0 0 0 10px;
+}
+
+
+
+.postal-wrapper .postal-contenedora .foto-postal .a-area.a-area-imagen-postal {
+  margin: 10px 0 0 0;
+}
+
+.postal-wrapper .postal-contenedora .titulo {
+  color: #402100;
+  float: left;
+  margin: 0 0 0 10px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* arreglo del margen*/
+.postal-wrapper .postal-contenedora .titulo .a-area.a-area-tit-postal {
+  margin: 0;
+}
+
+.postal-wrapper .postal-contenedora .titulo .a-area.a-area-tit-postal .a-slot.aText {
+  margin: 0;
+
+}
+
+
+.postal-wrapper .postal-contenedora .descripcion {
+  color: #402100;
+/*   float: left; */
+  margin: 0 5px 0 10px;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: left;
+}
+
+.postal-wrapper .postal-contenedora .descripcion .a-area.a-area-desc-postal {
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+    
+    
+/* Template Servicios Principal    =========================================== */
+
+#a-wrapper #a-content.servicios {
+  background: url("../images/fondo-servicios-principal.jpg") no-repeat center center;
+  height: 528px;
+  margin: -4px 0 0 19px;
+  float: left;
+}
+
+.servicio-wrapper {
+
+}
+
+.servicio-wrapper .cuadro_transp {
+  width: 450px;
+  height: 180px;
+  border: 1px solid #FFFFFF;
+  background: url("../images/fondo_transp.png") repeat scroll 0 0 transparent;
+  float: right;
+  margin: 330px 20px 0 0;
+  position: relative;
+}
+
+.servicio-wrapper .cuadro_transp .titulo {
+  margin: 10px 0 0 10px;
+  font-size: 14px;
+  color: #48290c;
+  float: left;
+}
+
+.servicio-wrapper .cuadro_transp .descripcion {
+  margin: 0 0 0 10px;
+  color: #48290c;
+  font-size: 12px;
+  width: 425px;
+  text-align: left;
+}
+
+.servicio-wrapper .cuadro_transp .descripcion .desc-postal {
+
+}
+
+
+
+
+
+
+
+/* Template Columna Izquierda Blanca    =========================================== */
+
+.col-left-blanca-wrapper {
+
+}
+
+.col-left-blanca-wrapper .cl-blanca-titulo {
+
+}
+
+.col-left-blanca-wrapper .cl-blanca-contenido {
+
+}
+
+
+
+
+
+
+
+/* Template Columna Izquierda Blanca con Flechas  =========================================== */
+
+.col-left-flechas-wrapper {
+  float: left;
+  height: 540px;
+}
+
+.col-left-flechas-wrapper .cuadro {
+  background: none repeat scroll 0 0 #FFFFFF;
+  height: 485px;
+  margin: 10px 0 0 20px;
+  overflow: hidden;
+  padding: 10px;
+  width: 410px;
+  border: 1px solid #805833;
+  position: relative;
+  float: left;
+}
+
+.col-left-flechas-wrapper .cuadro .titulo {
+
+}
+
+.col-left-flechas-wrapper .cuadro .titulo .cl-flechas-titulo {
+
+}
+
+.col-left-flechas-wrapper .cuadro .titulo .a-area.a-area-cl-flechas-titulo {
+  margin: 10px 0 0 0;
+}
+
+.col-left-flechas-wrapper .cuadro .titulo .a-slot.aRichText {
+  margin: 0;
+}
+
+.col-left-flechas-wrapper .cuadro .titulo .a-slot-content {
+  margin: 0;
+}
+      
+
+
+
+
+.col-left-flechas-wrapper .cuadro .contenido {
+  text-align: justify;
+  width: 355px;
+  margin: 0 10px 0 20px;
+}
+
+.col-left-flechas-wrapper .cuadro .contenido .cl-flechas-contenido {
+  
+}
+
+
+.col-left-flechas-wrapper .cuadro .flechas {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.col-left-flechas-wrapper .imagen-derecha {
+  margin: 20px 0 0 0;
+  float: left;
+}
+
+.col-left-flechas-wrapper #btn-abajo {
+  width: 23px;
+  height: 22px;
+  float: left;
+/*  background: url("../images/flecha-abajo.jpg") no-repeat top center #FFFFFF;*/
+}
+
+
+
+.col-left-flechas-wrapper #btn-arriba {
+  width: 23px;
+  height: 23px;
+  float: left;
+/*  background: url("../images/flecha-arriba.jpg") no-repeat top center #FFFFFF;*/
+}
+
+
+
+#btnReset {
+}
+
+
+/* Personalizacvion para Empresa / Historia ****************************************/
+/* es la pantallla inicial de empresa */
+
+#a-wrapper #a-content.empresa {
+  background: url("../images/fondo_hist.jpg") repeat-x #402200;
+  height: 540px;
+  float: left;
+  margin: -4px 0 0 19px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Template Columna Izquierda Transparente sin Flechas    =========================================== */
+#a-wrapper #a-content.el-cafe {
+  background: url("../images/fondo-origenyleyenda.jpg") no-repeat center center;
+  height: 527px;
+  margin: -4px 0 0 19px;
+  float: left;
+}
+
+
+.col-left-tr-wrapper {
+  float: left;
+  height: 551px;
+}
+
+.col-left-tr-wrapper .cuadro {
+  border: solid 2px #baa590;
+  height: 480px;
+  margin: 17px 0 0 20px;
+  /*overflow: hidden;*/
+  padding: 10px;
+  width: 410px;
+  float: left;
+  background: url("../images/fondo_transp.png") repeat scroll 0 0 transparent;
+}
+
+.col-left-tr-wrapper .cuadro .titulo {
+
+}
+
+.col-left-tr-wrapper .cuadro .titulo .cl-tr-titulo {
+
+}
+
+.col-left-tr-wrapper .cuadro .titulo .a-area.a-area-cl-tr-titulo {
+  margin: 0;
+  font-weight: bold;
+}
+.col-left-tr-wrapper .cuadro .contenido {
+  text-align: justify;
+  width: 390px;
+  margin: 0 10px 0 10px;
+}
+
+.col-left-tr-wrapper .cuadro .contenido .cl-tr-contenido {
+
+}
+.col-left-tr-wrapper .cuadro .contenido .a-area.a-area-cl-tr-contenido {
+  margin: 0;
+}
+
+
+
+
+#a-wrapper #a-content.nuestra-pasion {
+  background: url("../images/empresa-np-fondo.jpg") no-repeat #D1AF7E;
+  float: left;
+  height: 551px;
+  margin: -4px 0 0 19px;
+}
+
+/* Para que no se pueda editar texto del contenido */
+ul li a#a-slot-edit-12-cl-tr-contenido-1, 
+ul li a.a-btn.icon.a-history-btn.no-label {
+  display: none;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+/* Template Columna Izquierda Transparente con Flechas    =========================================== */
+
+/* fondo de el-cafe/historia del cafe */
+#a-wrapper #a-content.historia-del-cafe {
+  background: url("../images/fondo-histdelcafe.jpg") no-repeat center center;
+  height: 528px;
+  margin: -4px 0 0 19px;
+  float: left;
+}
+
+/* fondo de el-cafe/beneficios */
+#a-wrapper #a-content.beneficios {
+  background: url("../images/fondo-beneficios.jpg") no-repeat center center;
+  height: 528px;
+  margin: -4px 0 0 19px;
+  float: left;
+}
+
+.col-left-tr-flechas-wrapper {
+  float: left;
+  height: 551px;
+}
+
+.col-left-tr-flechas-wrapper .cuadro {
+  border: solid 2px #baa590;
+  height: 475px;
+  margin: 22px 0 0 20px;
+  /*overflow: hidden;*/
+  padding: 10px;
+  width: 410px;
+  float: left;
+  background: url("../images/fondo_transp.png") repeat scroll 0 0 transparent;
+  position: relative;
+
+}
+
+.col-left-tr-flechas-wrapper .cuadro .titulo {
+
+}
+
+.col-left-tr-flechas-wrapper .cuadro .titulo .cl-tr-flechas-titulo {
+
+}
+
+.col-left-tr-flechas-wrapper .cuadro .titulo .a-area.a-area-cl-tr-flechas-titulo {
+  margin: 10px 0 0 0;
+  font-weight: bold;
+}
+
+.col-left-tr-flechas-wrapper .cuadro .titulo .a-slot.aRichText {
+  margin: 0;
+}
+
+.col-left-tr-flechas-wrapper .cuadro .titulo .a-slot-content {
+  margin: 0;
+}
+      
+.col-left-tr-flechas-wrapper .cuadro .contenido {
+  text-align: justify;
+  width: 355px;
+  margin: 0 10px 0 20px;
+}
+
+.col-left-tr-flechas-wrapper .cuadro .contenido .cl-tr-flechas-contenido {
+  
+}
+
+
+.col-left-tr-flechas-wrapper .cuadro .flechas {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.col-left-tr-flechas-wrapper #btn-abajo {
+  width: 22px;
+  height: 21px;
+}
+
+
+.col-left-tr-flechas-wrapper #btn-arriba {
+  width: 22px;
+  height: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Template Columna Izquierda Transparente con Dibujos    =========================================== */
+
+/* fondo de preparacion del buen cafe */
+#a-wrapper #a-content.preparacion {
+  background: url("../images/fondo-preparacion.jpg") no-repeat center center;
+  height: 528px;
+  margin: -4px 0 0 19px;
+  float: left;
+}
+
+
+
+.col-left-tr-dibujos-wrapper {
+
+}
+
+.col-left-tr-dibujos-wrapper .cuadro {
+  border: solid 2px #baa590;
+  height: 475px;
+  margin: 22px 0 0 20px;
+  padding: 10px;
+  width: 410px;
+  float: left;
+  background: url("../images/fondo_transp.png") repeat scroll 0 0 transparent;
+}
+
+.col-left-tr-dibujos-wrapper .cuadro .dibujos {
+  width: 79px;
+  background: url("../images/imagenes-izq.png") no-repeat center center;
+  height: 355px;
+  float: left;
+  margin: 110px 0 0 0;
+}
+
+.col-left-tr-dibujos-wrapper .cuadro .textos {
+  width: 320px;
+  float: left;
+  text-align: justify;
+  margin: 5px 0 0 10px;
+}
+
+.col-left-tr-dibujos-wrapper .cuadro .textos .titulo {
+  font-size: 16px;
+  color: #3f2200;
+}
+
+.col-left-tr-dibujos-wrapper .cuadro .textos .nota_titulo {
+  font-size: 11px;
+  color: #3f2200;
+  font-weight: normal;
+}
+
+.col-left-tr-dibujos-wrapper .cuadro .textos .subtitulo {
+  font-size: 13px;
+  color: #3f2200;
+  font-weight: bold;
+  margin: 10px 0 0 0;
+}
+
+.col-left-tr-dibujos-wrapper .cuadro .textos .txt_comun {
+  font-size: 12px;
+  color: #3f2200;
+}
+
+      
+
+
+
+
+
+/* Template Servicios principal   =========================================== */
+
+ {
+  height: 551px;
+  width: 220px;
+  background: url("../images/home_muestra_izq.png") repeat scroll 0 0 transparent;
+}
+
+
+
+
+
+
+
+
+
+
+/* Template Nuestros Clientes  =========================================== */
+
+#a-wrapper #a-content.nuestros-clientes {
+  background-color: #FFFFFF;
+  height: 551px;
+  margin: -3px 0 0 18px;
+  float: left;
+  width: 851px;
+}
+
+
+.clientes-wrapper {
+
+}
+
+.clientes-wrapper .imagen_izq {
+  background: url("../images/clientes_parte_izq.jpg") no-repeat center center;
+  width: 220px;
+  height: 551px;
+  float: left;
+}
+
+.clientes-wrapper .parte_der {
+
+}
+
+.clientes-wrapper .parte_der .cuadro {
+  width: 180px;
+  height: 500px;
+  margin: 20px 0 0 10px;
+  float: left;
+}
+
+.clientes-wrapper .parte_der .cuadro.uno {
+  background-color: #d1af7f;
+  float: left;
+  margin-left: 37px;
+}
+
+.clientes-wrapper .parte_der .cuadro.uno .cuadro_uno {
+  
+}
+.clientes-wrapper .parte_der .cuadro.uno #a-area-9-cuadro_uno {
+  color: #543509;
+  text-align: right;
+}
+.clientes-wrapper .parte_der .cuadro.uno #a-area-9-cuadro_uno p {
+  margin-left: -20px;
+  text-align: right;
+  line-height: 0.8;
+  font-size: 14px;
+}
+
+
+.clientes-wrapper .parte_der .cuadro.dos {
+  background-color: #7f5733;
+  float: left;
+}
+
+.clientes-wrapper .parte_der .cuadro.dos .cuadro_dos {
+
+}
+
+.clientes-wrapper .parte_der .cuadro.dos #a-area-9-cuadro_dos {
+  color: #d0ab7e;
+  text-align: right;
+}
+.clientes-wrapper .parte_der .cuadro.dos #a-area-9-cuadro_dos p {
+  margin-left: -20px;
+  text-align: right;
+  line-height: 0.8;
+  font-size: 14px;
+}
+
+.clientes-wrapper .parte_der .cuadro.tres {
+  background-color: #402200;
+  float: left;
+}
+
+.clientes-wrapper .parte_der .cuadro.tres .cuadro_tres {
+
+}
+
+.clientes-wrapper .parte_der .cuadro.tres #a-area-9-cuadro_tres {
+  color: #d0ab7e;
+  text-align: right;
+}
+
+.clientes-wrapper .parte_der .cuadro.tres #a-area-9-cuadro_tres p {
+  margin-left: -20px;
+  text-align: right;
+  line-height: 0.8;
+  font-size: 14px;
+}
+
+
+/* para q no muestre la history */
+.clientes-wrapper .parte_der .a-controls-item.history.last {
+  display: none;
+}
+
+/* alargo los cuadros de edicion */
+iframe#slotform-9-cuadro_uno-1-value___Frame,
+iframe#slotform-9-cuadro_dos-1-value___Frame,
+iframe#slotform-9-cuadro_tres-1-value___Frame {
+  height: 400px !important;
+
+}
+
+            
+
+/* Contacto     =========================================== */
+
+
+/* Fondo de Contacto */
+#a-wrapper #a-content.contacto {
+  background: url("../images/contacto-fondo.jpg") no-repeat center center;
+  height: 528px;
+  float: left;
+/*   width: 100%; */
+  margin: -3px 0 0 19px;
+}
+
+.contacto-wrapper {
+
+}
+
+.contacto-wrapper .consultas {
+  width: 330px;
+  height: 320px;
+  float: right;
+  margin: 20px 0 0 0;
+}
+
+.contacto-wrapper .consultas ul {
+
+}
+
+.contacto-wrapper .consultas ul li {
+  width: 270px;
+  height: 50px;  
+  /*margin: 5px 0 5px 0;*/
+  margin: 0;
+  float: left;
+}
+
+.contacto-wrapper .consultas ul li label {
+  float: left;
+  margin: 0 0 3px 0;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.contacto-wrapper .consultas ul li input {
+  width: 270px;
+  height: 20px;
+  float: left;
+  background-color: #d1af7f;
+  border: 1px solid #775839;
+  color: #775839;
+  font-size: 13px;
+}
+
+.contacto-wrapper .consultas ul li textarea {
+  width: 270px;
+  height: 85px;
+  float: left;
+  background-color: #d1af7f;
+  border: 1px solid #775839;
+  color: #775839;
+  font-size: 13px;
+}
+
+.contacto-wrapper .consultas ul li #boton-consultas {
+  width: 70px;
+  height: 22px;
+  border: 1px solid #d1af7f;
+  background-color: #775839;
+  color: #FFFFFF;
+  float: right;
+  margin: 70px 0 0 0;
+}
+
+.contacto-wrapper .consultas ul li #boton-consultas:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.contacto-wrapper .consultas ul li .error_list {
+  float:left;
+  height: 1px; /* para que no tire para abajo los campos */
+  padding: 0 0 0 55px;
+}
+
+.contacto-wrapper .consultas ul li .error_list li {
+  color: red;
+  font-size: 10px;
+  font-weight: normal;  
+}
+
+.contacto-wrapper .gracias {
+  color: #FFFFFF;
+  font-size: 20px;
+  float: right;
+  margin: 100px 30px 0 0;
+  text-align: right;
+}
+
+.contacto-wrapper .gracias .primera {
+  
+}
+
+.contacto-wrapper .gracias .segunda {
+  
+}
+
+
+/* barra de logeo */
+
+.a-global-toolbar-apostrophe ul li a.a-btn.icon.a-reorganize,
+.a-global-toolbar-apostrophe ul li a.a-btn.icon.a-users,
+.a-global-toolbar-apostrophe ul li a.a-btn.icon.a-media,
+.a-global-toolbar-apostrophe ul li a.a-btn.icon.a-events,
+.a-global-toolbar-apostrophe ul li a.a-btn.icon.a-blog-btn {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+/* easyscroll */
+
+#easyscroll{
+  /*background:#eee;*/
+  /*margin:1em 0;*/
+  /* add additional styling */
+  float: left;
+  width: 380px;
+  } 
+
+  /* easyscroll navigation buttons */ 
+
+  #easyscrollnav, #easyscrollnav li{
+    line-height:28px;
+    margin:0; 
+    padding:0;
+    float: right;
+    } 
+  #easyscrollnav{
+    /*margin: 420px 0 0 0;*/
+    position: absolute;
+    right: 20px;
+    bottom: 20px; 
+    }     
+  #easyscrollnav li{
+    list-style:none;
+    float:left;
+    /*background:#eee;*/
+    /*color:#333;*/
+    /*cursor:pointer;*/
+    }         
+  #easyscrollnav li.over{
+    /*color:#999;*/
+    /*text-decoration:underline;*/
+    }             
+
+  /* // easyscroll navigation buttons */  
+
+#btn-abajo {
+  float: left;
+  background: url("../images/flechabajada.png") no-repeat top center;
+/*   background: url("../images/flecha-abajo.png") no-repeat bottom center; */
+
+}
+
+#btn-abajo:hover {
+  background-position: bottom;
+  cursor: pointer;
+}
+
+#btn-arriba {
+  float: left;
+/*   background: url("../images/flecha-arriba.png") no-repeat bottom center; */
+  background: url("../images/flechasubida.png") no-repeat top center;
+}
+
+#btn-arriba:hover {
+  background-position: bottom;
+  cursor: pointer;
+}
+
+#btnReset {
+}
+
+
+
+
+/* // end easyscroll */
+
+
+
+
+
+
+
+
+
+/**
+ * Additional styles for the controls.
+ */
+.jcarousel-control {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.jcarousel-control a {
+    font-size: 75%;
+    text-decoration: none;
+    padding: 0 5px;
+    margin: 0 0 5px 0;
+    border: 1px solid #fff;
+    color: #eee;
+    background-color: #4088b8;
+    font-weight: bold;
+}
+
+.jcarousel-control a:focus,
+.jcarousel-control a:active {
+    outline: none;
+}
+
+.jcarousel-scroll {
+    margin-top: 8px;
+    text-align: center;
+}
+
+.jcarousel-scroll form {
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel-scroll select {
+    font-size: 75%;
+}
+
+#mycarousel-next,
+#mycarousel-prev {
+    cursor: pointer;
+    margin-bottom: -10px;
+    text-decoration: underline;
+    font-size: 11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Template Personal Viejo */
+/* No va mas */
+/*
+.personal-wrapper {
+  float: left;
+  background-color: #4d2f0b;
+}
+
+.personal-wrapper .cuadro-foto-grande {
+  margin: 10px 0 0 20px;
+  border: 1px solid #754f2a;
+  background-color: #dcd5cd;
+  width: 410px;
+  height: 510px;
+  float: left;
+}
+
+.personal-wrapper .cuadro-foto-grande .titulo {
+  color: #3f2100;
+  font-family: Trebuchet;
+  font-size: 14px;
+  margin: 24px 0 0 20px;
+  padding: 0;
+}
+
+.personal-wrapper .cuadro-foto-grande .titulo .negrita {
+  font-weight: bold;
+}
+
+.personal-wrapper .cuadro-foto-grande .titulo .normal {
+  font-weight: normal;
+}
+
+.personal-wrapper .cuadro-foto-grande .foto-grande {
+  margin: 13px 0 0 55px;
+  float: left;
+  border: 4px solid #4e300c;  
+  width: 287px;
+  height: 383px;
+/*width: 294px;*/
+  /*height: 392px;
+  background: url("../images/empresa-personal-director1-grande.jpg") no-repeat center center;
+}
+
+.personal-wrapper .cuadro-foto-grande .pie {
+  color: #3f2100;
+  font-family: Trebuchet;
+  font-size: 11px;
+  margin: 15px 0 0 20px;
+  float: left;
+}
+
+.personal-wrapper .cuadro-foto-grande .pie .negrita {
+  font-weight: bold;
+  margin: 0;
+  float: left;
+}
+
+.personal-wrapper .cuadro-foto-grande .pie .normal {
+  font-weight: normal;
+  margin: 0;
+}
+
+.personal-wrapper .titulo-directivos {
+  float: left;
+  color: #d1af81;
+  margin: 10px 0 0 160px;
+  font-size: 14px;
+}
+
+.personal-wrapper img.foto {
+  width: 84px;
+  height: 125px;
+  border: 2px solid #d0ae7e;
+}
+
+
+
+.personal-wrapper .fotos-arbol-superior {
+  float: left;
+  margin: 0 0 0 65px;
+}
+
+/* para los slots del apostrophe 
+.personal-wrapper .fotos-arbol-superior .a-area {
+  width: 87px;
+  margin: 5px;
+}
+
+.personal-wrapper .fotos-arbol-superior .a-area .a-slot{
+  margin: 0;
+}
+.personal-wrapper .fotos-arbol-superior .a-controls .choose-image{
+  overflow:hidden;
+  width:65px;
+}
+/* fin de para los slots del apostrophe 
+
+
+.personal-wrapper .fotos-arbol-superior .foto {
+  width: 87px;
+  height: 128px;
+  float: left;
+  margin: 5px;
+}
+
+.personal-wrapper .img-arbolsuperior {
+
+}
+
+.personal-wrapper .tit-cargos-medios {
+  color: #d1af81;
+  margin: 0 0 0 20px;
+  font-size: 14px;
+  float: left;
+}
+
+.personal-wrapper .tit-cargos-medios .cargos-admi {
+  float: left;
+  margin: 0 0 0 33px;
+}
+.personal-wrapper .tit-cargos-medios .cargos-clie {
+  float: left;
+  margin: 0 0 0 33px;
+}
+.personal-wrapper .tit-cargos-medios .cargos-cont {
+  float: left;
+  margin: 0 0 0 23px;
+}
+.personal-wrapper .tit-cargos-medios .cargos-elab {
+  float: left;
+  margin: 0 0 0 20px;
+}
+
+.personal-wrapper .fotos-arbol-medio {
+  margin: 0 0 0 7px;
+  float: left;
+}
+
+.personal-wrapper .fotos-arbol-medio .foto {
+  width: 87px;
+  height: 128px;
+  float: left;
+  margin: 5px 5px 5px 5px;
+}
+
+.personal-wrapper .img-arbolinferior {
+
+}
+
+.personal-wrapper .tit-cargos-inf {
+  color: #d1af81;
+  margin: 0 0 0 105px;
+  font-size: 14px;
+  float: left;
+}
+
+.personal-wrapper .tit-cargos-inf .cargos-rep {
+  float: left;
+  margin: 0 0 0 20px;
+}
+
+.personal-wrapper .tit-cargos-inf .cargos-seg {
+  float: left;
+  margin: 0 0 0 20px;
+}
+
+.personal-wrapper .fotos-arbol-inferior {
+  float: left;
+  margin: 0 0 0 114px;
+}
+
+.personal-wrapper .fotos-arbol-inferior .foto {
+  width: 87px;
+  height: 128px;
+  float: left;
+  margin: 5px 5px 5px 5px;
+}
+
+

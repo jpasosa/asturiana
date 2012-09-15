@@ -1,0 +1,67 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/reverse
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+mssql
+dir
+
+sqlite
+dir
+
+SchemaParser.php
+file
+
+
+
+
+2010-07-31T20:59:56.000000Z
+e804d5e0089bcd20ab76c19c33393955
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+mysql
+dir
+
+oracle
+dir
+
+pgsql
+dir
+
+BaseSchemaParser.php
+file
+
+
+
+
+2010-07-31T20:59:56.000000Z
+fe515c8a0a02a937b08f39aa895dacd2
+2010-07-31T19:05:20.200846Z
+3
+diego
+

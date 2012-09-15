@@ -1,0 +1,40 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/modules/autoloadPlugin/actions
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+actions.class.php
+file
+
+
+
+
+2010-07-31T20:59:50.000000Z
+a9a1710b5787e3e97cb3f9db917a6566
+2010-07-31T19:05:20.200846Z
+3
+diego
+

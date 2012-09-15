@@ -1,0 +1,79 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/plugins/apostrophePlugin/config
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+app.yml.sample
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+733a87bd9617d6f5d3720d984a43dbba
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+settings.yml.sample
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+2ff34425e03c00c33146a567fe8aca61
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+apostrophePluginConfiguration.class.php
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+f2de37d24baa5e049cb80b58a3dc411b
+2010-07-31T19:50:31.953831Z
+4
+diego
+
+doctrine
+dir
+
+routing.yml.sample
+file
+
+
+
+
+2010-07-31T20:59:36.000000Z
+0860e8ea4e3714c6cacfe476ebf0fbd2
+2010-07-31T19:50:31.953831Z
+4
+diego
+

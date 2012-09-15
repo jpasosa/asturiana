@@ -1,0 +1,88 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Soap
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Wsdl.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+186fa0b9a612fbe1da8bde5cabe5dc63
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Client.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+107e4405fa4bd1ba1a20d14bf97373c3
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Server
+dir
+
+AutoDiscover
+dir
+
+Wsdl
+dir
+
+Server.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+74a893558e5913ab0418e2b5d68aa550
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+AutoDiscover.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+1023b21b13900a6e94b95f534fa46db1
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Client
+dir
+

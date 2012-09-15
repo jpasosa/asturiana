@@ -1,0 +1,89 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-10-01T02:07:28.579514Z
+102
+juampa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+test
+dir
+
+plugins
+dir
+
+LICENSE
+file
+
+
+
+
+2010-07-31T21:00:09.000000Z
+bc439cf3c3b129e7aa25854525e8020d
+2010-07-31T17:53:00.272620Z
+1
+diego
+
+apps
+dir
+
+symfony
+file
+
+
+
+
+2010-07-31T21:00:09.000000Z
+ec0244c82ba8f52899e48b4e473f78e8
+2010-07-31T17:53:00.272620Z
+1
+diego
+has-props
+
+config
+dir
+
+lib
+dir
+
+docs
+dir
+
+data
+dir
+
+web
+dir
+
+README
+file
+
+
+
+
+2010-07-31T21:00:09.000000Z
+c18c02a1579c886efb9d3da8a991053e
+2010-07-31T17:53:00.272620Z
+1
+diego
+

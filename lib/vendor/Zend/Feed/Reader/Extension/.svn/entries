@@ -1,0 +1,79 @@
+8
+
+dir
+102
+file:///home/hormigon/usvn/files/svn/asturiana/lib/vendor/Zend/Feed/Reader/Extension
+file:///home/hormigon/usvn/files/svn/asturiana
+
+
+
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+46f0af21-c332-4742-af51-ef01b7477d04
+
+Atom
+dir
+
+Syndication
+dir
+
+DublinCore
+dir
+
+Thread
+dir
+
+Content
+dir
+
+Slash
+dir
+
+EntryAbstract.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+a20971da095b0c50673bd3aeb2fb3cf0
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+Podcast
+dir
+
+FeedAbstract.php
+file
+
+
+
+
+2010-07-31T20:59:43.000000Z
+3536f9ea7eeb28c4bdda2e10f4463ae7
+2010-07-31T19:05:20.200846Z
+3
+diego
+
+CreativeCommons
+dir
+
+WellFormedWeb
+dir
+
